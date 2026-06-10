@@ -1,0 +1,20 @@
+core/src/indexer/fetch_logs.rs
+  s_f88ce06dc64812::t_28e772248a91a8 616-624
+  s_f88ce06dc64812::t_53a06f8593e99d 729-731
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "c9dfb598d97a39435963d886a06241d859cf3330",
+  "prompts": {},
+  "sessions": {
+    "s_f88ce06dc64812": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "0e99247c-0bbb-42ac-9a97-66e5b8ab69c7",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Mark Grothe <grothem@gmail.com>"
+    }
+  }
+}
