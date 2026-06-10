@@ -1,0 +1,10 @@
+core/src/indexer/fetch_logs.rs
+  s_f88ce06dc64812::t_53a06f8593e99d 558-560
+  s_f88ce06dc64812::t_28e772248a91a8 447-455
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "78df7edb554a197702b2d94c165af29356c31b75",
+  "prompts": {}
+}
